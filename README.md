@@ -1,1 +1,1 @@
-# -STR_Trabalho_1-Sensor_de_Proximidade
+# STR_Trabalho_2-Sensor_de_Proximidade
