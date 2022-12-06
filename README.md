@@ -8,3 +8,9 @@ https://wokwi.com/projects/new/arduino-uno
 
 Referência
 https://github.com/BrinoOficial/Sonar
+
+O sensor de proximidade tem como principal aplicação verificar a distância segura para evitar contaminção por Covid
+
+maior que 2m = seguro
+entre 2 e 1,5 m = médio
+menor que 1 m = não seguro
