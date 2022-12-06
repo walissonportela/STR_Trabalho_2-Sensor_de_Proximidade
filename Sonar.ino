@@ -4,6 +4,20 @@
 
 #include <Servo.h>.
 
+//TÓPICOS NECESSÁRIOS
+// Usar o Processing
+// Tarefa periódica usando vTaskDelayUntil()
+// Semáforo Mutex
+// Filas
+// Notificação
+
+//MATERIAIS
+// Uma placa Arduino
+// Protoboard
+// Jumpers
+// Sensor Ultrasônico de distância (HC-SR04)
+// Leds verde, vermelho e amarelo
+
 // Aqui vamos definir o pino de Echo e Trigger do HC-SR04
 const int trig_Pino = 10;
 const int echo_Pino = 11;
@@ -16,7 +30,6 @@ int distancia;
 Servo Sonar_Servo;
 
 void setup() {
-  
   // Vamos começar definindo o trigger como saída
   // e o Echo como entrada, além de iniciar a serial e o servo
   pinMode(trig_Pino, OUTPUT);
