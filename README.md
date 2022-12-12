@@ -1,12 +1,15 @@
 # STR Trabalho 2 - Sensor de proximidade
 
-Exemplo de aplicação
+Simulador do funcionamento:
+https://wokwi.com/projects/350317529207407186
+
+Exemplo de aplicação:
 https://www.youtube.com/watch?v=fB4VqINML_0
 
-Simulador de arduino
+Simulador de arduino:
 https://wokwi.com/projects/new/arduino-uno
 
-Referência
+Referência:
 https://github.com/BrinoOficial/Sonar
 
 O sensor de proximidade tem como principal aplicação verificar a distância segura para evitar contaminção por Covid
