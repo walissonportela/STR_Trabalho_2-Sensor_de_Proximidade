@@ -12,7 +12,7 @@
 > Referência:
 > https://github.com/BrinoOficial/Sonar
 
-**O Sensor de Proximidade tem como principal aplicação verificar a distância segura para evitar contaminção por Covid**
+**O Sensor de Proximidade tem como principal aplicação verificar a distância segura para evitar contaminação por Covid**
 
 * Maior que 1,5 m = seguro;
 
