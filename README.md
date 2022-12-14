@@ -1,10 +1,10 @@
 # STR Trabalho 2 - Sensor de proximidade
 
 > Simulador do funcionamento:
-[https://wokwi.com/projects/350317529207407186]
+https://wokwi.com/projects/350317529207407186
 
 Exemplo de aplicação:
-[https://www.youtube.com/watch?v=fB4VqINML_0]
+(https://www.youtube.com/watch?v=fB4VqINML_0)
 
 Simulador de arduino:
 [https://wokwi.com/projects/new/arduino-uno]
