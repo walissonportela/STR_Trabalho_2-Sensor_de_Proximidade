@@ -15,5 +15,7 @@ https://github.com/BrinoOficial/Sonar
 O Sensor de Proximidade tem como principal aplicação verificar a distância segura para evitar contaminção por Covid
 
 maior que 2m = seguro;
+
 entre 2 e 1,5 m = médio;
+
 menor que 1 m = não seguro;
