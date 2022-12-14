@@ -1,4 +1,4 @@
-# STR Trabalho 2 - Sensor de proximidade
+*# STR Trabalho 2 - Sensor de proximidade*
 
 Simulador do funcionamento:
 https://wokwi.com/projects/350317529207407186
