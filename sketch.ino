@@ -27,7 +27,7 @@ void Task4( void *pvParametros );
 // Cria as tarefas que vão verificar os valores recebidos 
 int criarTasks(void)
 {
-    if(xTaskCreate(Task2,  "Task2",  128, NULL, 1, NULL) == pdPASS)
+    if(xTaskCreate(Task2,  "Task2",  128, NULL, 2, NULL) == pdPASS)
       Serial.println("Task Task2 criada com sucesso!");
     else
       return 0;  
@@ -143,10 +143,10 @@ void Task2( void *pvParametros ) {
         digitalWrite(ledRed,HIGH);
         //digitalWrite(buzzer,HIGH);
         tone(buzzer,392);
-         vTaskDelay( 500 / portTICK_PERIOD_MS );
-         digitalWrite(ledRed,LOW);
-         digitalWrite(buzzer,LOW);
-         noTone(buzzer); 
+        vTaskDelay( 500 / portTICK_PERIOD_MS );
+        digitalWrite(ledRed,LOW);
+        digitalWrite(buzzer,LOW);
+        noTone(buzzer); 
         
     }
     else
